@@ -25,11 +25,12 @@ const prompts = [
   ["no","not sure","maybe","no thanks"],
   [""],
   ["haha","ha","lol","hehe","funny","joke"],
-  ["bsdk"],
-  ["gandu"],
-  ["kya hal h bhai"],
-  ["mc"],
-  ["bc"]
+  ["bsdk", "Bsdk"],
+  ["gandu","Gandu"],
+  ["kya hal h bhai", "Kya hal j bhai"],
+  ["mc", "Mc"],
+  ["bc", "Bc"],
+  ["mantasha", "Mantasha"]
 
 ]
 
@@ -68,7 +69,8 @@ const replies = [
   ["tu gandu"],
   ["thik hai bhai"],
   ["tu mc"],
-  ["tu bc"]
+  ["tu bc"],
+  ["Mantasha Suar hai"]
 ]
 
 // Random for any other user input
